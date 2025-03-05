@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XWFNvqRpSTyR6of41NKLK8NvBnpvWPNkbtAirKykjBU=",
+  "Source": "WebContacts",
+  "BasePath": "_content/WebContacts",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

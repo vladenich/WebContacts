@@ -1,0 +1,6 @@
+@WebContacts_HostAddress = http://localhost:5433
+
+GET {{WebContacts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
